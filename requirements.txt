@@ -1,0 +1,22 @@
+# Core agent framework
+crewai==0.28.0
+crewai-tools==0.1.6
+
+# LLM
+openai==1.14.0
+
+# Web scraping via Apify
+apify-client==1.6.4
+
+# Google Sheets
+gspread==6.0.2
+google-auth==2.29.0
+
+# Data handling
+pandas==2.2.1
+pydantic==2.6.4
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+tqdm==4.66.2
